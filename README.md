@@ -1,11 +1,9 @@
 
-````markdown
 # Student Management System
 
 A simple full-stack **Student Management** application built with **React (Vite)** for the frontend and **Java** for backend services.  
 This project aims to provide basic functionality for managing student data, such as adding, viewing, editing, and deleting student records.
 
----
 
 ## 📌 Features
 
@@ -23,7 +21,6 @@ This project aims to provide basic functionality for managing student data, such
   - Modular codebase (frontend and backend separated).
   - Lightweight and easy to set up.
 
----
 
 ## 🛠 Tech Stack
 
@@ -33,8 +30,6 @@ This project aims to provide basic functionality for managing student data, such
 | **Backend**   | Java (Spring Boot recommended) |
 | **Database**  | MySQL / PostgreSQL (configurable) |
 | **Tools**     | ESLint, npm, Maven/Gradle |
-
----
 
 ## 🚀 Getting Started
 
