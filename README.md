@@ -46,50 +46,6 @@ This project aims to provide basic functionality for managing student data, such
 git clone https://github.com/anu-maxmin/student-management.git
 cd student-management
 ````
-
----
-
-### 2️⃣ Frontend Setup
-
-```bash
-cd frontend   # Navigate to frontend folder if separated
-npm install
-npm run dev
-```
-
-* Access the app at: `http://localhost:5173`
-
----
-
-### 3️⃣ Backend Setup
-
-```bash
-cd backend   # Navigate to backend folder
-mvn spring-boot:run
-```
-
-* API will run at: `http://localhost:8080`
-
----
-
-## 📂 Project Structure
-
-```
-student-management/
-│
-├── frontend/         # React (Vite) frontend
-│   ├── src/
-│   ├── package.json
-│   └── vite.config.js
-│
-├── backend/          # Java backend (Spring Boot)
-│   ├── src/main/java
-│   ├── pom.xml
-│   └── application.properties
-│
-└── README.md
-```
-
 ---
 
 ## 🔮 Future Enhancements
